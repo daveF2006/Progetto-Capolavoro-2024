@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "image": "https://www.fastweb.it/var/storage_feeds/cms20/media/fwb_wbce_cms20_fwplus/858/858be0e9335f8f788ddcc597bb77a301/OSI%20Model.jpg",
         "title_topics": "Modello ISO-OSI",
         "description": "Il modello ISO-OSI (Open Systems Interconnection) è un modello concettuale che descrive le funzioni di comunicazione di rete suddividendole in sette strati.",
@@ -67,6 +68,7 @@
         ]
     },
     {
+        "id": 2,
         "image": "https://www.whatismyip.com/static/e3c2d375b219e64f67c8bc157b203f83/tcp-ip-model.webp",
         "title_topics": "stack TCP/IP",
         "description": "Lo stack TCP/IP è una serie di protocolli di comunicazione che vengono utilizzati per collegare dispositivi su una rete.",
@@ -98,9 +100,10 @@
         ]
     },
     {
+        "id": 3,
         "image": "https://www.ipxo.com/blog/network-routing/",
         "title_topics": "Funzione di Routing del livello Network",
-        "description": "La funzione di routing del Network layer coinvolge il processo di selezione del percorso ottimale per la trasmissione dei dati da una sorgente a una destinazione attraverso una rete.",
+        "description": "La funzione di routing del livello di rete coinvolge il processo di selezione del percorso ottimale per la trasmissione dei dati da una sorgente a una destinazione attraverso una rete.",
         "list sotto_topics": [
             {
                 "sotto_topics": {
@@ -129,7 +132,8 @@
         ]
     },
     {
-        "image": "https://www.ipxo.com/blog/network-routing/",
+        "id": 4,
+        "image": "",
         "title_topics": "Algoritmi di routing",
         "description": "Gli algoritmi di routing sono utilizzati nei router per determinare il percorso ottimale per la trasmissione dei dati attraverso una rete.",
         "list sotto_topics": [
@@ -166,6 +170,7 @@
         ]
     },
     {
+        "id": 5,
         "image": "https://2.bp.blogspot.com/-pZapUtREzmM/WWzIsqoE6PI/AAAAAAAAEZU/oTJa8f_BPqY_Zfq_UMblyQSU3NfH39dXQCLcBGAs/s1600/internet_topology.jpg",
         "title_topics": "Autonomous System",
         "description": "Un Autonomous System (AS) è una rete o un gruppo di reti gestite da un'unica organizzazione e che utilizzano un protocollo di routing comune.",
@@ -197,9 +202,11 @@
         ]
     },
     {
+        "id": 6,
         "image": "https://c8.alamy.com/compit/frrc2m/bibliografia-concetto-parola-sfondo-nuvola-frrc2m.jpg",
         "title_topics": "Glossario e Bibliografia",
         "description": "Il glossario contiene definizioni dei termini utilizzati nel contesto delle reti di computer, mentre la bibliografia include fonti di riferimento per ulteriori approfondimenti.",
         "list sotto_topics": []
     }
 ]
+

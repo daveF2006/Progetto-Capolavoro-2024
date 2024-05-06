@@ -1,15 +1,15 @@
-import React, { useState } from 'react';
 import './Topics.css'
+import React from 'react';
 
-const Topic_box = ({list_topics}) => {
+const Topic_box = ({topics}) => {
 
   return (
     <article className='topic-box'>
-      <img src={list_topics.image} alt={list_topics.title} className='topic-img'/>
+      <img src={topics.image} alt={topics.title_topics} className='topic-img'/>
       <div className='topic-header'>
       </div>
-      <h2>{list_topics.title}</h2>
-      <p>{list_topics.intro}</p>
+      <h2>{topics.title_topics}</h2>
+      <p>{topics.description}</p>
       <p> Vai a pagina argomento </p>
     </article>
   );

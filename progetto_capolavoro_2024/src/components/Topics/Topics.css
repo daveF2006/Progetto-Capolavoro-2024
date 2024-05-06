@@ -1,4 +1,4 @@
-list_topics {
+article{
     margin-bottom: 20px;
     padding: 20px;
     border-radius: 8px;
@@ -19,23 +19,11 @@ list_topics {
     justify-items: auto;
   
   }
-  
-  .list_topics-info {
+
+  .article-info {
     display: flex;
     justify-content: space-between;
     width: 100%;
-  }
-  
-  button {
-    background-color: rgb(179, 212, 255);
-    border: none;
-    padding: 5px 10px;
-    border-radius: 4px;
-    cursor: pointer;
-  }
-  
-  button:hover {
-    background-color: #ba9ce4;
   }
   
   h2 {
@@ -46,7 +34,7 @@ list_topics {
     margin: 10px auto 10px 0;
   }
   
-  .topic-header {
+  .article-header {
     width: 100%;
     display: flex;
     justify-content: space-between;
