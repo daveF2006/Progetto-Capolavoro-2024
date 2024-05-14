@@ -1,7 +1,7 @@
 import './Topics.css'
 import React from 'react';
 
-const Topic_box = ({topics}) => {
+const Topics= ({topics, click}) => {
 
   return (
     <article className='topic-box'>
@@ -10,9 +10,9 @@ const Topic_box = ({topics}) => {
       </div>
       <h2>{topics.title_topics}</h2>
       <p>{topics.description}</p>
-      <p> Vai a pagina argomento </p>
+      <button onClick={click}> Leggi argomento </button>
     </article>
   );
 };
 
-export default Topic_box;
+export default Topics;

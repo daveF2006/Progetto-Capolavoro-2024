@@ -1,212 +1,153 @@
 [
     {
-        "id": 1,
         "image": "https://www.fastweb.it/var/storage_feeds/cms20/media/fwb_wbce_cms20_fwplus/858/858be0e9335f8f788ddcc597bb77a301/OSI%20Model.jpg",
         "title_topics": "Modello ISO-OSI",
         "description": "Il modello ISO-OSI (Open Systems Interconnection) è un modello concettuale che descrive le funzioni di comunicazione di rete suddividendole in sette strati.",
         "list sotto_topics": [
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "L’evoluzione della comunicazione",
-                    "content": ""
-                }
+                "title_sotto_topics": "L’evoluzione della comunicazione",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Introduzione al modello ISO-OSI",
-                    "content": ""
-                }
+                "title_sotto_topics": "Introduzione al modello ISO-OSI",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Funzionamento dei livelli del modello",
-                    "content": ""
-                }
+                "title_sotto_topics": "Funzionamento dei livelli del modello",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Physical",
-                    "content": ""
-                }
+                "title_sotto_topics": "Physical",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Data Link",
-                    "content": ""
-                }
+                "title_sotto_topics": "Data Link",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Network",
-                    "content": ""
-                }
+                "title_sotto_topics": "Network",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Transport",
-                    "content": ""
-                }
+                "title_sotto_topics": "Transport",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Session",
-                    "content": ""
-                }
+                "title_sotto_topics": "Session",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Presentation",
-                    "content": ""
-                }
+                "title_sotto_topics": "Presentation",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Application",
-                    "content": ""
-                }
+                "title_sotto_topics": "Application",
+                "content": ""
             }
         ]
     },
     {
-        "id": 2,
-        "image": "https://www.whatismyip.com/static/e3c2d375b219e64f67c8bc157b203f83/tcp-ip-model.webp",
+        "image": "https://signal.avg.com/hs-fs/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/What%20is%20TCPIP%20(Signal)/TCP-IP.png?width=1320&name=TCP-IP.png",
         "title_topics": "stack TCP/IP",
         "description": "Lo stack TCP/IP è una serie di protocolli di comunicazione che vengono utilizzati per collegare dispositivi su una rete.",
         "list sotto_topics": [
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Host interlocutori",
-                    "content": ""
-                }
+                "title_sotto_topics": "Host interlocutori",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Incapsulamento e decapsulamento",
-                    "content": ""
-                }
+                "title_sotto_topics": "Incapsulamento e decapsulamento",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Multiplexing e demultiplexing",
-                    "content": ""
-                }
+                "title_sotto_topics": "Multiplexing e demultiplexing",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Confronto tra ISO-OSI e TCP/IP",
-                    "content": ""
-                }
+                "title_sotto_topics": "Confronto tra ISO-OSI e TCP/IP",
+                "content": ""
             }
         ]
     },
     {
-        "id": 3,
-        "image": "https://www.ipxo.com/blog/network-routing/",
+        "image": "https://www.ipxo.com/app/uploads/2022/04/Featured-820x460.jpg",
         "title_topics": "Funzione di Routing del livello Network",
         "description": "La funzione di routing del livello di rete coinvolge il processo di selezione del percorso ottimale per la trasmissione dei dati da una sorgente a una destinazione attraverso una rete.",
         "list sotto_topics": [
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Introduzione al routing",
-                    "content": ""
-                }
+                "title_sotto_topics": "Introduzione al routing",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Routing table e default router",
-                    "content": ""
-                }
+                "title_sotto_topics": "Routing table e default router",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Routing statico e dinamico",
-                    "content": ""
-                }
+                "title_sotto_topics": "Routing statico e dinamico",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Problema della RTLP",
-                    "content": ""
-                }
+                "title_sotto_topics": "Problema della RTLP",
+                "content": ""
             }
         ]
     },
     {
-        "id": 4,
-        "image": "",
+        "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230316100154/Types-of-Routing-Algorithm.png",
         "title_topics": "Algoritmi di routing",
         "description": "Gli algoritmi di routing sono utilizzati nei router per determinare il percorso ottimale per la trasmissione dei dati attraverso una rete.",
         "list sotto_topics": [
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Introduzione protocolli di routing",
-                    "content": ""
-                }
+                "title_sotto_topics": "Introduzione protocolli di routing",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Algoritmo di Distance Vector",
-                    "content": ""
-                }
+                "title_sotto_topics": "Algoritmo di Distance Vector",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Routing table",
-                    "content": ""
-                }
+                "title_sotto_topics": "Routing table",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Passaggi algoritmo",
-                    "content": ""
-                }
+                "title_sotto_topics": "Passaggi algoritmo",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Algoritmo Link state",
-                    "content": ""
-                }
+                "title_sotto_topics": "Algoritmo Link state",
+                "content": ""
             }
         ]
     },
     {
-        "id": 5,
-        "image": "https://2.bp.blogspot.com/-pZapUtREzmM/WWzIsqoE6PI/AAAAAAAAEZU/oTJa8f_BPqY_Zfq_UMblyQSU3NfH39dXQCLcBGAs/s1600/internet_topology.jpg",
+        "image": "https://kerkour.com/assets/2023/09/internet_network_of_networks.png",
         "title_topics": "Autonomous System",
         "description": "Un Autonomous System (AS) è una rete o un gruppo di reti gestite da un'unica organizzazione e che utilizzano un protocollo di routing comune.",
         "list sotto_topics": [
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Introduzione agli Autonomous System",
-                    "content": ""
-                }
+                "title_sotto_topics": "Introduzione agli Autonomous System",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Funzionamento interno",
-                    "content": ""
-                }
+                "title_sotto_topics": "Funzionamento interno",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Esempio AS",
-                    "content": ""
-                }
+                "title_sotto_topics": "Esempio AS",
+                "content": ""
             },
             {
-                "sotto_topics": {
-                    "title_sotto_topics": "Tipi di AS e ASN",
-                    "content": ""
-                }
+                "title_sotto_topics": "Tipi di AS e ASN",
+                "content": ""
             }
         ]
     },
     {
-        "id": 6,
         "image": "https://c8.alamy.com/compit/frrc2m/bibliografia-concetto-parola-sfondo-nuvola-frrc2m.jpg",
         "title_topics": "Glossario e Bibliografia",
         "description": "Il glossario contiene definizioni dei termini utilizzati nel contesto delle reti di computer, mentre la bibliografia include fonti di riferimento per ulteriori approfondimenti.",
         "list sotto_topics": []
     }
 ]
+
 
